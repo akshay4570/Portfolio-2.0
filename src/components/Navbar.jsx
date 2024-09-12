@@ -13,7 +13,11 @@ export const Navbar = () => {
     <nav className="mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-08 items-center">
         <a href="/">
-          <img className="mx-2 w-45 h-10" src={logo} alt="logo" />
+          <img
+            className="mx-2 w-25 h-6 lg:w-45 lg:h-10"
+            src={logo}
+            alt="logo"
+          />
         </a>
       </div>
       <div className="m-8 flex items-center justify-center gap-8 text-2xl">
