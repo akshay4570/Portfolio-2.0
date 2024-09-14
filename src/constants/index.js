@@ -146,7 +146,7 @@ export const GITHUB_HANDLE = `https://github.com/akshay4570`;
 
 export const INSTAGRAM_HANDLE = `https://www.instagram.com/akshayhegde4570/`;
 
-export const RESUME_URL = `https://drive.google.com/file/d/1RdS7obHVK1ZLuwp6XoCSqjB65_haigl3/view`;
+export const RESUME_URL = `https://drive.google.com/file/d/1XupDk1RObbRyS7G6U029i8iuaNG95f33/view?usp=sharing`;
 export const TECHNOLOGY = [
   {
     name: RiReactjsLine,
